@@ -20,7 +20,7 @@ To install and run the application locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd social-network-api
+   cd Social-Network-API-Fix
    ```
 3. Install dependencies:
    ```sh
